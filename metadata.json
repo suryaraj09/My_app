@@ -1,0 +1,5 @@
+{
+  "name": "Job Hunter AI",
+  "description": "An AI-powered job search assistant that finds opportunities based on your skills and preferred locations.",
+  "requestFramePermissions": []
+}
